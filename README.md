@@ -1,5 +1,5 @@
 # CRUD Spring + React
-> Create, read, update and delete!
+> A table with name, username, email and CRUD actions!
 
 ## 🚀 Technologies
 This project was made with the following technologies:
