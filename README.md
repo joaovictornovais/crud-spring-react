@@ -10,9 +10,12 @@ This project was made with the following technologies:
 ## 💻 Project
 > A scoreboard that shows user information with options to add, edit, remove and update!
 
-## 🧰 Application
+## 📚Documentation 
+> To see the documentation and try the application, you need to run the spring project and after that, access [This Link!](http://localhost:8080/swagger-ui/index.html#/)
 
+## 🧰 Application
 To use this app, download the repository, pgAdmin 4 and run both apps, front and back!
+> **IMPORTANT**: Remember to create a new db in pgAdmin called 'users'!
 
 ## 🖼 Images
 | Home screen | Register new User | User registered
